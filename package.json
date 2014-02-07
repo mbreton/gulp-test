@@ -1,0 +1,20 @@
+{
+  "name": "gulp-test",
+  "version": "0.0.1",
+  "author": "Mathieu Breton <mbreton@xebia.fr>",
+  "description": "a simple test of gulp.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mbreton/gulp-test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.5.2"
+  },
+  "bundledDependencies": [],
+  "license": "AfferoGPL",
+  "engines": {
+    "node": ">=0.10.25"
+  }
+}
